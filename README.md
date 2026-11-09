@@ -1,94 +1,105 @@
-# Daemon Linux
+# Daemon-linux
 
-### Linux Systems · Network Engineering · Cybersecurity
+### Understand the System. Secure the Infrastructure.
 
-**Understand systems. Engineer infrastructure. Secure networks.**
+I'm an IT enthusiast focused on **Linux Systems, Network Infrastructure, and Cybersecurity**.
 
-I am an IT enthusiast focused on Linux systems, network infrastructure, and cybersecurity. I enjoy understanding how operating systems work internally, building network environments, troubleshooting complex problems, and documenting practical technical experiments.
+My goal is to understand how systems work beneath the surface, build reliable infrastructure, and develop practical skills in system administration and defensive security.
 
-My approach is based on hands-on learning, systematic troubleshooting, and understanding the technology behind the tools.
+I believe in learning by building, testing, troubleshooting, and documenting real-world technical challenges.
 
 ---
 
-## Technical Focus
+## Areas of Focus
 
-| Domain         | Areas of Interest                                     |
-| -------------- | ----------------------------------------------------- |
-| Linux          | System Administration, Linux Internals, LFS, systemd  |
-| Networking     | TCP/IP, Routing, Switching, VLANs, VPN                |
-| Cybersecurity  | Network Security, Linux Hardening, Defensive Security |
-| Infrastructure | Cisco, MikroTik, Virtualization                       |
-| Automation     | Bash, Python, Ansible                                 |
+- **Linux Systems:** Linux administration, system internals, filesystems, systemd, and system configuration.
+- **Networking:** TCP/IP, routing, switching, VLANs, VPNs, and network troubleshooting.
+- **Cybersecurity:** Linux hardening, network security, access control, and defensive security.
+- **Infrastructure:** Monitoring, logging, virtualization, and software-defined data centers.
+- **Automation:** Bash, Python, and Ansible for system and network automation.
 
 ## Technologies & Tools
 
 **Operating Systems**
-
-- Linux (Arch Linux, Fedora, Kali Linux)
+- Linux (Arch Linux, Fedora, Kali Linux, Ubuntu)
 - Windows
 
 **Networking**
-
-- Cisco IOS
+- Cisco
 - MikroTik RouterOS
-- TCP/IP, DNS, DHCP, VLAN, Routing
-- OpenVPN,
+- TCP/IP, VLAN, Routing & Switching
+- OpenVPN
+- EVE-NG
 
-**Linux & Infrastructure**
-
-- Bash
+**Systems & Infrastructure**
+- Linux Administration
 - systemd
-- SSH
-- Git
 - KVM / QEMU
-- GNS3 / PNETLab
+- Software-Defined Data Center (SDDC)
 
-**Monitoring & Security**
-
+**Monitoring**
 - Zabbix
 - SNMP
 - Syslog
 - NetFlow
-- Linux Security
 
-## Featured Projects
-
-### Linux From Scratch — In Progress
-
-Building a Linux system from source while studying its architecture, toolchain, libraries, and core utilities.
-
-### Networking Labs
-
-Practical networking experiments involving Cisco, MikroTik, routing, switching, and VPN infrastructure.
-
-### Linux Administration
-
-Technical notes, troubleshooting procedures, system configuration, and administration experiments.
-
-## Technical Background
-
-- CCNA Routing & Switching
-- CCNA Security
-- MCSA
-- Microsoft Azure Administration
-- CCNP Routing & Switching
-- LPIC-2 — In Progress
-
-## Learning Philosophy
-
-I believe understanding how things work is more important than simply knowing which commands to execute.
-
-Every repository is intended to document practical work, technical findings, troubleshooting processes, and lessons learned.
-
-## Current Direction
-
-- Linux system engineering
-- Network infrastructure and security
-- Defensive cybersecurity
-- Infrastructure automation
+**Automation & Scripting**
+- Bash
+- Python
+- Ansible
 
 ---
 
-**Daemon Linux**
+## Certifications & Technical Learning
 
-*Building knowledge through engineering, experimentation, and documentation.*
+### Certificates with Examination
+*Tehran Institute of Technology*
+
+- CompTIA Network+
+- Microsoft MCSA
+- Cisco CCNA (200-301)
+
+### Self-Study & Technical Development
+
+- Linux Essentials
+- LPIC-1
+- LPIC-2
+- Red Hat Certified System Administrator (RHCSA) — RHEL 9 & RHEL 10
+- Software-Defined Data Center (SDDC)
+- Bash Scripting Essentials
+- Zabbix Monitoring
+
+---
+
+## Current Projects
+
+| Repository | Focus |
+|---|---|
+| [Linux From Scratch](https://github.com/Daemon-linux/linux-from-scratch) | Building and understanding a Linux system from source |
+| [Networking Labs](https://github.com/Daemon-linux/networking-labs) | Practical routing, switching, and network infrastructure labs |
+| [Linux Administration](https://github.com/Daemon-linux/linux-administration) | Linux system administration and troubleshooting |
+| [Cybersecurity Labs](https://github.com/Daemon-linux/cybersecurity-labs) | Defensive security and system hardening |
+| [Automation Labs](https://github.com/Daemon-linux/automation-labs) | Infrastructure automation and scripting |
+| [Technical Notes](https://github.com/Daemon-linux/technical-notes) | Technical documentation and learning notes |
+
+*Projects and documentation are being developed progressively.*
+
+---
+
+## Learning Philosophy
+
+- Understand concepts before memorizing commands.
+- Prefer hands-on labs over purely theoretical learning.
+- Document configurations, errors, and troubleshooting processes.
+- Build systems, break them safely, and understand how to fix them.
+- Focus on practical engineering skills and continuous improvement.
+
+---
+
+## Connect
+
+- GitHub: [@Daemon-linux](https://github.com/Daemon-linux)
+
+---
+
+<sub>Building knowledge through systems, networks, and security — one lab at a time.</sub>
