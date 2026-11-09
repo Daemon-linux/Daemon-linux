@@ -15,13 +15,13 @@ I believe in learning by building, testing, troubleshooting, and documenting rea
 - **Linux Systems:** Linux administration, system internals, filesystems, systemd, and system configuration.
 - **Networking:** TCP/IP, routing, switching, VLANs, VPNs, and network troubleshooting.
 - **Cybersecurity:** Linux hardening, network security, access control, and defensive security.
-- **Infrastructure:** Monitoring, logging, virtualization, and software-defined data centers.
+- **Infrastructure:** Virtualization, monitoring, logging, and software-defined data centers.
 - **Automation:** Bash, Python, and Ansible for system and network automation.
 
 ## Technologies & Tools
 
 **Operating Systems**
-- Linux (Arch Linux, Fedora, Kali Linux, Ubuntu)
+- Linux (Arch Linux, Fedora, Kali Linux)
 - Windows
 
 **Networking**
@@ -34,6 +34,7 @@ I believe in learning by building, testing, troubleshooting, and documenting rea
 **Systems & Infrastructure**
 - Linux Administration
 - systemd
+- VMware ESXi 8
 - KVM / QEMU
 - Software-Defined Data Center (SDDC)
 
@@ -47,6 +48,28 @@ I believe in learning by building, testing, troubleshooting, and documenting rea
 - Bash
 - Python
 - Ansible
+
+---
+
+## Virtualization & Homelab Infrastructure
+
+I maintain a personal virtualization lab to gain hands-on experience with enterprise infrastructure, hypervisors, and virtualized environments.
+
+### Physical Server Specifications
+
+| Component | Configuration |
+|---|---|
+| CPU | 2 × Intel Xeon Gold |
+| Memory | 128 GB RAM |
+| Storage | SSD Storage |
+| Hypervisor | VMware ESXi 8 |
+
+### Virtualization Environment
+
+- VMware ESXi 8 as the primary hypervisor.
+- Nested ESXi deployment with three virtual ESXi hosts.
+- Hands-on exploration of virtualization architecture and infrastructure management.
+- Practical learning focused on enterprise virtualization and SDDC concepts.
 
 ---
 
