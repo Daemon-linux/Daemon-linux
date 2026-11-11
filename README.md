@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Daemon-linux">
-    <img src="https://img.shields.io/badge/GitHub-Daemon--linux-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Networking%20%7C%20Security-38BDF8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Homelab-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/LINUX-SYSTEMS-38BDF8?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NETWORK-ENGINEERING-38BDF8?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CYBER-SECURITY-38BDF8?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VIRTUALIZATION-0D1117?style=flat-square&logo=vmware&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-0D1117?style=flat-square&logo=serverfault&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/AUTOMATION-0D1117?style=flat-square&logo=ansible&logoColor=38BDF8" />
 </p>
 
 ---
@@ -57,6 +61,8 @@ I enjoy exploring how systems work internally, building practical lab environmen
 
 **A personal environment for enterprise infrastructure experimentation.**
 
+I maintain a personal server environment for practical exploration of hypervisors, virtual networking, and virtualization architecture.
+
 | Component | Specification |
 |---|---|
 | Compute | 2 × Intel Xeon Gold |
@@ -65,7 +71,8 @@ I enjoy exploring how systems work internally, building practical lab environmen
 | Hypervisor | VMware ESXi 8 |
 | Virtualization | 3 Nested ESXi hosts |
 
-**Lab objectives**
+### Lab Objectives
+
 - VMware ESXi administration
 - Nested virtualization architecture
 - Virtual networking and storage
@@ -73,7 +80,11 @@ I enjoy exploring how systems work internally, building practical lab environmen
 - Enterprise infrastructure concepts
 - Software-Defined Data Center fundamentals
 
-[Explore Homelab Infrastructure →](https://github.com/Daemon-linux/homelab-infrastructure)
+<p align="center">
+  <a href="https://github.com/Daemon-linux/homelab-infrastructure">
+    <img src="https://img.shields.io/badge/EXPLORE-HOMELAB-38BDF8?style=for-the-badge&logo=vmware&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -136,7 +147,7 @@ Document   ←  Troubleshoot
 - Understand underlying mechanisms, not just commands.
 - Build practical environments and test real configurations.
 - Troubleshoot systematically and document root causes.
-- Prefer reproducible procedures and clear documentation.
+- Prefer reproducible procedures and clear technical documentation.
 - Learn by experimenting, validating, and improving.
 
 ---
