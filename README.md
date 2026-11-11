@@ -1,79 +1,88 @@
-# Daemon-linux
+# `Daemon-linux`
 
-### Understand the System. Secure the Infrastructure.
-
-I'm an IT enthusiast focused on **Linux Systems, Network Infrastructure, and Cybersecurity**.
-
-My goal is to understand how systems work beneath the surface, build reliable infrastructure, and develop practical skills in system administration and defensive security.
-
-I believe in learning by building, testing, troubleshooting, and documenting real-world technical challenges.
+<p align="center">
+  <strong>LINUX SYSTEMS · NETWORK INFRASTRUCTURE · CYBERSECURITY</strong>
+  <br>
+  <sub>Understand the system. Engineer the infrastructure. Secure the environment.</sub>
+</p>
 
 ---
 
-## Areas of Focus
+## 01 / Profile
 
-- **Linux Systems:** Linux administration, system internals, filesystems, systemd, and system configuration.
-- **Networking:** TCP/IP, routing, switching, VLANs, VPNs, and network troubleshooting.
-- **Cybersecurity:** Linux hardening, network security, access control, and defensive security.
-- **Infrastructure:** Virtualization, monitoring, logging, and software-defined data centers.
-- **Automation:** Bash, Python, and Ansible for system and network automation.
+I'm an IT enthusiast focused on understanding, building, and managing modern IT infrastructure.
 
-## Technologies & Tools
+My primary interests are Linux systems, enterprise networking, virtualization, and defensive security. I enjoy exploring how systems work internally, building practical lab environments, troubleshooting complex issues, and documenting the engineering process.
 
-**Operating Systems**
-- Linux (Arch Linux, Fedora, Kali Linux)
-- Windows
-
-**Networking**
-- Cisco
-- MikroTik RouterOS
-- TCP/IP, VLAN, Routing & Switching
-- OpenVPN
-- EVE-NG
-
-**Systems & Infrastructure**
-- Linux Administration
-- systemd
-- VMware ESXi 8
-- KVM / QEMU
-- Software-Defined Data Center (SDDC)
-
-**Monitoring**
-- Zabbix
-- SNMP
-- Syslog
-- NetFlow
-
-**Automation & Scripting**
-- Bash
-- Python
-- Ansible
+I believe technical knowledge should be demonstrated through **working systems, reproducible labs, and clear documentation.**
 
 ---
 
-## Virtualization & Homelab Infrastructure
+## 02 / Technical Domains
 
-I maintain a personal virtualization lab to gain hands-on experience with enterprise infrastructure, hypervisors, and virtualized environments.
-
-### Physical Server Specifications
-
-| Component | Configuration |
+| Domain | Areas of Interest |
 |---|---|
-| CPU | 2 × Intel Xeon Gold |
-| Memory | 128 GB RAM |
-| Storage | SSD Storage |
-| Hypervisor | VMware ESXi 8 |
+| **Linux Engineering** | Linux administration, systemd, filesystems, boot process, system internals |
+| **Network Infrastructure** | TCP/IP, routing, switching, VLANs, VPNs, network troubleshooting |
+| **Virtualization** | VMware ESXi, Nested ESXi, KVM/QEMU, SDDC |
+| **Cybersecurity** | Linux hardening, network security, access control, defensive security |
+| **Monitoring** | Zabbix, SNMP, Syslog, NetFlow |
+| **Automation** | Bash, Python, Ansible |
 
-### Virtualization Environment
+### Technology Stack
 
-- VMware ESXi 8 as the primary hypervisor.
-- Nested ESXi deployment with three virtual ESXi hosts.
-- Hands-on exploration of virtualization architecture and infrastructure management.
-- Practical learning focused on enterprise virtualization and SDDC concepts.
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square" />
+  <img src="https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVE--NG-Lab-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-DC382D?style=flat-square" />
+</p>
 
 ---
 
-## Certifications & Technical Learning
+## 03 / Homelab & Infrastructure
+
+**Building and operating my own virtualization environment.**
+
+I maintain a personal server environment for practical exploration of enterprise infrastructure, hypervisors, virtual networking, and virtualization architecture.
+
+| Component | Specification |
+|---|---|
+| Compute | 2 × Intel Xeon Gold |
+| Memory | 128 GB RAM |
+| Storage | SSD |
+| Hypervisor | VMware ESXi 8 |
+| Virtualization | 3 Nested ESXi hosts |
+
+**Lab Focus**
+- VMware ESXi 8 administration
+- Nested virtualization architecture
+- Virtual infrastructure deployment
+- Network and storage configuration
+- Enterprise virtualization concepts
+- SDDC fundamentals
+
+---
+
+## 04 / Engineering Projects
+
+| Repository | Description | Status |
+|---|---|---|
+| [Linux From Scratch](https://github.com/Daemon-linux/linux-from-scratch) | Building a Linux system from source and documenting its internals | In Progress |
+| [Homelab Infrastructure](https://github.com/Daemon-linux/homelab-infrastructure) | Personal server, VMware ESXi and nested virtualization | In Progress |
+| [Networking Labs](https://github.com/Daemon-linux/networking-labs) | Routing, switching and network infrastructure labs | Planned |
+| [Linux Administration](https://github.com/Daemon-linux/linux-administration) | Linux administration and troubleshooting | In Progress |
+| [Cybersecurity Labs](https://github.com/Daemon-linux/cybersecurity-labs) | System hardening and defensive security experiments | Planned |
+| [Automation Labs](https://github.com/Daemon-linux/automation-labs) | Bash, Python and infrastructure automation | Planned |
+| [Technical Notes](https://github.com/Daemon-linux/technical-notes) | Technical documentation and engineering notes | Active |
+
+---
+
+## 05 / Certifications & Technical Development
 
 ### Certificates with Examination
 *Tehran Institute of Technology*
@@ -87,42 +96,33 @@ I maintain a personal virtualization lab to gain hands-on experience with enterp
 - Linux Essentials
 - LPIC-1
 - LPIC-2
-- Red Hat Certified System Administrator (RHCSA) — RHEL 9 & RHEL 10
+- RHCSA — RHEL 9 & RHEL 10
 - Software-Defined Data Center (SDDC)
 - Bash Scripting Essentials
 - Zabbix Monitoring
 
 ---
 
-## Current Projects
+## 06 / Engineering Approach
 
-| Repository | Focus |
-|---|---|
-| [Linux From Scratch](https://github.com/Daemon-linux/linux-from-scratch) | Building and understanding a Linux system from source |
-| [Networking Labs](https://github.com/Daemon-linux/networking-labs) | Practical routing, switching, and network infrastructure labs |
-| [Linux Administration](https://github.com/Daemon-linux/linux-administration) | Linux system administration and troubleshooting |
-| [Cybersecurity Labs](https://github.com/Daemon-linux/cybersecurity-labs) | Defensive security and system hardening |
-| [Automation Labs](https://github.com/Daemon-linux/automation-labs) | Infrastructure automation and scripting |
-| [Technical Notes](https://github.com/Daemon-linux/technical-notes) | Technical documentation and learning notes |
-
-*Projects and documentation are being developed progressively.*
+- Understand the underlying mechanisms, not just the commands.
+- Build practical environments and test real configurations.
+- Troubleshoot systematically and document the root cause.
+- Prefer reproducible procedures and clear technical documentation.
+- Learn by experimenting, validating, and improving.
 
 ---
 
-## Learning Philosophy
+## 07 / Contact
 
-- Understand concepts before memorizing commands.
-- Prefer hands-on labs over purely theoretical learning.
-- Document configurations, errors, and troubleshooting processes.
-- Build systems, break them safely, and understand how to fix them.
-- Focus on practical engineering skills and continuous improvement.
-
----
-
-## Connect
-
-- GitHub: [@Daemon-linux](https://github.com/Daemon-linux)
+<p align="left">
+  <a href="https://github.com/Daemon-linux">
+    <img src="https://img.shields.io/badge/GitHub-Daemon--linux-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<sub>Building knowledge through systems, networks, and security — one lab at a time.</sub>
+<p align="center">
+  <sub>BUILD · TEST · UNDERSTAND · SECURE</sub>
+</p>
