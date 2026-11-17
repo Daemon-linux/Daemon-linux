@@ -44,13 +44,21 @@ I enjoy exploring how systems work internally, building practical lab environmen
 ### Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,ansible,powershell,git,vim&theme=dark" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,ansible,powershell,git,vim&theme=dark" alt="Core tools and technologies" />
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=redhat,fedora,arch&theme=dark" alt="Linux platforms" />
+</p>
+
+### Infrastructure & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Hat-Enterprise%20Linux-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/KVM-QEMU-0E7490?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square" />
-  <img src="https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/EVE--NG-Network%20Emulation-222222?style=flat-square" />
   <img src="https://img.shields.io/badge/Zabbix-Monitoring-DC382D?style=flat-square" />
 </p>
@@ -100,11 +108,18 @@ I maintain a personal server environment for practical exploration of hypervisor
 | [Automation Labs](https://github.com/Daemon-linux/automation-labs) | Bash, Python and infrastructure automation | Planned |
 | [Technical Notes](https://github.com/Daemon-linux/technical-notes) | Technical documentation and notes | Active |
 
+### Featured Project
+
+**[Linux From Scratch 13.1-systemd](https://github.com/Daemon-linux/linux-from-scratch)**
+
+Built an x86_64 Linux system from source, configured its kernel and bootloader, and successfully booted the resulting system. Build evidence, system state, and test outcomes are documented in the repository.
+
+- [Final system and boot evidence](https://github.com/Daemon-linux/linux-from-scratch/tree/main/screenshots/08-final-system)
+- [Testing and validation records](https://github.com/Daemon-linux/linux-from-scratch/tree/main/screenshots/07-testing-and-validation)
+
 ---
 
 ## `05` / LEARNED & COMPLETED
-
-*Tehran Institute of Technology*
 
 - CompTIA Network+
 - Microsoft MCSA
