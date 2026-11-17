@@ -134,8 +134,9 @@ Built an x86_64 Linux system from source, configured its kernel and bootloader, 
 - Bash Scripting Essentials
 - Zabbix Monitoring
 
-### Currently Learning
+### Areas I Want to Learn
 
+- CCNP Routing & Switching (CCNP R&S)
 - RHCE
 - Security-Enhanced Linux (SELinux)
 - Red Hat Troubleshooting (EX342)
