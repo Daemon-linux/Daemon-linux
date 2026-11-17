@@ -49,7 +49,8 @@ I enjoy exploring how systems work internally, building practical lab environmen
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="48" alt="Red Hat" />
-  <img src="https://skillicons.dev/icons?i=fedora,arch&theme=dark" alt="Fedora and Arch Linux" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" alt="Fedora" />
+  <img src="https://skillicons.dev/icons?i=arch&theme=dark" height="48" alt="Arch Linux" />
 </p>
 
 ### Infrastructure & Platforms
