@@ -92,7 +92,7 @@ I maintain a personal server environment for practical exploration of hypervisor
 
 | Project | Description | Status |
 |---|---|---|
-| [Linux From Scratch](https://github.com/Daemon-linux/linux-from-scratch) | Building a Linux system from source | In Progress |
+| [Linux From Scratch](https://github.com/Daemon-linux/linux-from-scratch) | Building a Linux system from source | Completed |
 | [Homelab Infrastructure](https://github.com/Daemon-linux/homelab-infrastructure) | VMware ESXi and nested virtualization | In Progress |
 | [Networking Labs](https://github.com/Daemon-linux/networking-labs) | Routing, switching and network labs | Planned |
 | [Linux Administration](https://github.com/Daemon-linux/linux-administration) | Linux administration and troubleshooting | In Progress |
@@ -102,17 +102,13 @@ I maintain a personal server environment for practical exploration of hypervisor
 
 ---
 
-## `05` / CERTIFICATIONS & TECHNICAL DEVELOPMENT
+## `05` / LEARNED & COMPLETED
 
-### Certificates with Examination
 *Tehran Institute of Technology*
 
 - CompTIA Network+
 - Microsoft MCSA
 - Cisco CCNA (200-301)
-
-### Self-Study & Technical Development
-
 - Linux Essentials
 - LPIC-1
 - LPIC-2
@@ -120,6 +116,15 @@ I maintain a personal server environment for practical exploration of hypervisor
 - Software-Defined Data Center (SDDC)
 - Bash Scripting Essentials
 - Zabbix Monitoring
+
+### Currently Learning
+
+- RHCE
+- Security-Enhanced Linux (SELinux)
+- Red Hat Troubleshooting (EX342)
+- Red Hat Security Hardening (EX413)
+- LPIC-3 (303)
+- Essential Services for Linux — DHCP, DNS & Directory Services
 
 ---
 
